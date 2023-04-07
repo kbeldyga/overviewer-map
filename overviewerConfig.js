@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "winner"
+        "kP2023 - overworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1680377436",
+        "cacheTag": "1680866026",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,30 +41,30 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overworld",
-            "zoomLevels": 10,
+            "name": "Day",
+            "zoomLevels": 8,
             "defaultZoom": 1,
-            "maxZoom": 10,
-            "path": "render1",
+            "maxZoom": 8,
+            "path": "day",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "winner",
-            "last_rendertime": 1680375852,
+            "world": "kP2023 - overworld",
+            "last_rendertime": 1680863207,
             "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                1338,
-                64,
-                -63
+                0,
+                124,
+                0
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -48,
-                80,
-                -112
+                0,
+                124,
+                0
             ],
             "north_direction": 0
         }
